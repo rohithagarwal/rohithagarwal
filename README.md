@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **DSA,Development.**
 
-- 💬 Ask me about **C,C++,JAVA**
+- 💬 Ask me about **C,C++,JAVA,DSA,WEBSITE DEVELOPMENT**
 
 - 📫 How to reach me **rohithagarwal096@gmail.com**
 
