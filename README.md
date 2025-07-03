@@ -1,4 +1,4 @@
-# 👋 Hi, I'm [Your Name]!
+# 👋 Hi, I'm Rohith Kumar Agarwal!
 
 Welcome to my GitHub! I'm a passionate coding enthusiast and student who loves building on the web, exploring Machine Learning, and leveraging modern cloud technologies.
 
@@ -64,7 +64,7 @@ Here’s how I track my coding journey and growth:
 ## 📫 Let's Connect!
 
 Feel free to reach out or connect with me:
-- [](#)
+- [https://www.linkedin.com/in/rohith-kumar-agarwal/](#)
 - [Twitter](#)
 - [rohithagarwal096@gmail.com](#)
 
