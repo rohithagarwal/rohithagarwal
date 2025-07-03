@@ -54,7 +54,7 @@ Here’s how I track my coding journey and growth:
 
 | Platform      | Profile Link                                                     | Stats/Badges                              |
 |---------------|------------------------------------------------------------------|-------------------------------------------|
-| LeetCode      | [My LeetCode](https://leetcode.com/rohithagarwal096)                | ![LeetCode Stats](https://leetcard.jacoblin.cool/your_username?theme=light&font=Roboto&ext=contest) |
+| LeetCode      | [My LeetCode](https://leetcode.com/rohithagarwal096)                | ![LeetCode Stats](https://leetcard.jacoblin.cool/rohithagarwal096?theme=light&font=Roboto&ext=contest) |
 | GeeksforGeeks | [My GFG](https://auth.geeksforgeeks.org/user/rohithagarwal)      | ![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Progress-brightgreen) |
 
 > Replace `your_username` with your actual username on each platform for profile links and stats.
@@ -64,9 +64,9 @@ Here’s how I track my coding journey and growth:
 ## 📫 Let's Connect!
 
 Feel free to reach out or connect with me:
-- [LinkedIn](#)
+- [](#)
 - [Twitter](#)
-- [Email](#)
+- [rohithagarwal096@gmail.com](#)
 
 ---
 
