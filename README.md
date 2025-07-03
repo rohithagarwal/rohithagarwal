@@ -54,9 +54,8 @@ Here’s how I track my coding journey and growth:
 
 | Platform      | Profile Link                                                     | Stats/Badges                              |
 |---------------|------------------------------------------------------------------|-------------------------------------------|
-| LeetCode      | [My LeetCode](https://leetcode.com/your_username)                | ![LeetCode Stats](https://leetcard.jacoblin.cool/your_username?theme=light&font=Roboto&ext=contest) |
-| GeeksforGeeks | [My GFG](https://auth.geeksforgeeks.org/user/your_username)      | ![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Progress-brightgreen) |
-| HackerRank    | [My HackerRank](https://www.hackerrank.com/your_username)        | ![HackerRank Badge](https://img.shields.io/badge/HackerRank-Gold-success)      |
+| LeetCode      | [My LeetCode](https://leetcode.com/rohithagarwal096)                | ![LeetCode Stats](https://leetcard.jacoblin.cool/your_username?theme=light&font=Roboto&ext=contest) |
+| GeeksforGeeks | [My GFG](https://auth.geeksforgeeks.org/user/rohithagarwal)      | ![GFG Badge](https://img.shields.io/badge/GeeksforGeeks-Progress-brightgreen) |
 
 > Replace `your_username` with your actual username on each platform for profile links and stats.
 
